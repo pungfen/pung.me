@@ -1,5 +1,4 @@
 module.exports = {
   title: 'Hello VitePress',
-  description: 'Just playing around.',
-  base: '/me'
+  description: 'Just playing around.'
 }
